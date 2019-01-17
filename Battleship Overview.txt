@@ -1,0 +1,6 @@
+It is a game that was created with the use of python and pygame
+It mimics the classic game battleship
+It comes with 2 modes and 3 difficulties
+There is 2 player and there is single player
+The single player mode comes with 3 difficulties and the hardest being unbeatable
+It comes with multiple beautiful backgrounds to choose from and colour scheme of your choice
